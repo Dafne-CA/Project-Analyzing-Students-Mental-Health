@@ -1,4 +1,4 @@
-# 🌍 **Analysis of International Students' Mental Health** 📊💡
+# 🌍 **Analysis of International Students' Mental Health** 📊
 
 Welcome to this **DataCamp** project! 🎉 In this analysis, we explore how the **length of stay** in a foreign country affects the **mental health** of international students. We focus on three key mental health indicators: **depression**, **social connectedness**, and **acculturative stress**, using **PostgreSQL** to analyze the data. 🇯🇵👨‍🎓
 
